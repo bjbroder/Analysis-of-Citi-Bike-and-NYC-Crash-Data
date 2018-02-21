@@ -41,10 +41,12 @@ Separately, the values from “boxCoords” are read in line by line and are est
 
   Each of these boxes gets plotted onto two graphs, one that measures bike percentages (range: 0-1.3%) and one that measures crash percentages (range: 0-100%). This plot is essentially a scatter plot that plots a “box” shape in various colors corresponding to the box’s percentage in a given category (similar to a heat-map). Different colors are used in the bike-percentage plot and the crash-percentage plot to highlight the difference in range between the two graphs. Before plotting, the boxes are sorted so that those with the lowest percentages are plotted first. This ensures that boxes with higher percentages and, therefore, darker colors will be visible on top of the lighter colored boxes. The boxes graphed are not entirely opaque, allowing viewers to see the depth of the boxes plotted. An additional two plots were added – total bikes (range: 0-3611) and total crashes (range: 0-54) – for clarity.
  
+ 
+ 
 Results
 
 
-Bike Percentages*	Max: ~1.2%	Scale: .1%
+Bike Percentages*		Max: ~1.2%	Scale: .1%
 ![manhattanbikejan 1 -1](https://user-images.githubusercontent.com/29382505/36510660-c78b6a4c-1731-11e8-9264-5b17cdf57af5.jpg) 
 	
 
@@ -54,7 +56,7 @@ The three darkest points on this graph depict the areas surrounding the exits of
 
 
 
-Crash Percentages *	Max: 100%	Scale 10%
+Crash Percentages 		Max: 100%	Scale 10%
 ![manhattancrashjan 1 -1](https://user-images.githubusercontent.com/29382505/36510661-c79e9b9e-1731-11e8-9177-a7dd7b26715c.jpg)
 
 
@@ -63,13 +65,13 @@ the likelihood (percentage) of those bikes being near a car crash because the sh
 	
 	
 	
-Total Bikes*	Max: ~3600 Bikes	Scale: 250 Bikes
+Total Bikes*			Max: ~3600 Bikes	Scale: 250 Bikes
 ![manhattantotbikejan-1](https://user-images.githubusercontent.com/29382505/36510658-c7167f8e-1731-11e8-82ba-f319ced46729.jpg)
 
 
 
 
-Total Crashes	*Max: ~50 Crashes	Scale: 5 Crashes
+Total Crashes			Max: ~50 Crashes	Scale: 5 Crashes
 ![manhattantotcrashjan-1](https://user-images.githubusercontent.com/29382505/36510659-c729cfe4-1731-11e8-8fc3-7939b799b1c7.jpg)
 
 
