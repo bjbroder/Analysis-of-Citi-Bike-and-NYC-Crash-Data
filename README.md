@@ -1,14 +1,14 @@
 # Analysis-of-Citi-Bike-and-NYC-Crash-Data
 
 Submitted as Final Project for Applied Linux Programming and Scripting, Fall 2017
-Code-Walkthrough: bit.ly/LinuxProject
+
 
 Introduction
 
   In this study, I determined the locations in Manhattan where, as a fraction of the number of bikes at that location, there is a high likelihood of bikers being near car crashes. This analysis is based on the Citi Bike Trip Data which contains data about bike rentals in lower Manhattan and NYPD Motor Vehicle Collision records, both from January 2014. Additionally, I used this data to study if those locations correlate to the likelihood of a car crash occurring near at least one biker.  
 The images below demonstrate the difference between these two analyses. In the first example, the likelihood of a biker being near a car crash at a given location is determined in by taking the percent of bike trips near a car crash out of the total number of bike trips passing through that location. In the second example, the likelihood of a location is the percentage of car crashes near at least one bike out of all car crashes occurring at that location.
 
-
+![linux project descript img](https://user-images.githubusercontent.com/29382505/36510588-801a97fa-1731-11e8-833c-deceab55c6ff.png)
 
 Code Walkthrough
 
