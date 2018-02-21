@@ -44,9 +44,9 @@ Separately, the values from “boxCoords” are read in line by line and are est
 Results
 
 
-Bike Percentages*	
+Bike Percentages*	Max: ~1.2%	Scale: .1%
 ![manhattanbikejan 1 -1](https://user-images.githubusercontent.com/29382505/36510660-c78b6a4c-1731-11e8-9264-5b17cdf57af5.jpg) 
-Max: ~1.2%	Scale: .1%	
+	
 
 These results show that the places in Manhattan with the greatest percentage of its bikers being near car crashes are the exits/entrances to bridges and tunnels leading into and out of Manhattan.
 
@@ -54,23 +54,23 @@ The three darkest points on this graph depict the areas surrounding the exits of
 
 
 
-Crash Percentages
+Crash Percentages *	Max: 100%	Scale 10%
 ![manhattancrashjan 1 -1](https://user-images.githubusercontent.com/29382505/36510661-c79e9b9e-1731-11e8-9177-a7dd7b26715c.jpg)
-Max: 100%	Scale 10%
+
 
 These results demonstrate that the places in Manhattan where there is the highest percentage of car crashes near bikes (100%) is highly correlated with the number of bikes travelling through that location but not with
 the likelihood (percentage) of those bikes being near a car crash because the sheer volume of bikes travelling through the area completely overwhelms the percentage of those bikes that are near crashes.
 	
 	
 	
-Total Bikes*	
+Total Bikes*	Max: ~3600 Bikes	Scale: 250 Bikes
 ![manhattantotbikejan-1](https://user-images.githubusercontent.com/29382505/36510658-c7167f8e-1731-11e8-82ba-f319ced46729.jpg)
-Max: ~3600 Bikes	Scale: 250 Bikes
 
 
 
-Total Crashes
+
+Total Crashes	*Max: ~50 Crashes	Scale: 5 Crashes
 ![manhattantotcrashjan-1](https://user-images.githubusercontent.com/29382505/36510659-c729cfe4-1731-11e8-8fc3-7939b799b1c7.jpg)
-Max: ~50 Crashes	Scale: 5 Crashes
+
 
 *Recall that the bike data only includes bike trips from lower Manhattan 
